@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET\\Movies_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\movies_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:movies_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\services\\genresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:services\\genresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|f:\\.net\\movies_api\\services\\igenresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F009EF3E-F123-47DF-84E8-B9E865B01F28}|Movies_Api.csproj|solutionrelative:services\\igenresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movies_Api.csproj",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Movies_Api.csproj",
+              "RelativeDocumentMoniker": "Movies_Api.csproj",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Movies_Api.csproj",
+              "RelativeToolTip": "Movies_Api.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T22:49:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\GenreDto.cs",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Dtos\\GenreDto.cs",
+              "RelativeToolTip": "Dtos\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:21:14.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:58:02.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:29:04.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresServices.cs",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Services\\GenresServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenresServices.cs",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Services\\GenresServices.cs",
+              "RelativeToolTip": "Services\\GenresServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:37:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenresServices.cs",
+              "DocumentMoniker": "F:\\.NET\\Movies_Api\\Services\\IGenresServices.cs",
+              "RelativeDocumentMoniker": "Services\\IGenresServices.cs",
+              "ToolTip": "F:\\.NET\\Movies_Api\\Services\\IGenresServices.cs",
+              "RelativeToolTip": "Services\\IGenresServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:32:20.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
